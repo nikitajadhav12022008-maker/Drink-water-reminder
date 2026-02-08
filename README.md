@@ -1,18 +1,16 @@
-💧 Drink Water Reminder
-
+##💧 Drink Water Reminder:
 A simple Python project that reminds the user to drink water at regular time intervals using desktop notifications.
 This is a beginner-friendly project created using Python and the Plyer library.
 
 ---
 
-📌 Project Description
-
+##📌 Project Description:
 Many people forget to drink enough water while studying or working on the computer.
 This program runs in the background and sends a notification at fixed intervals to remind the user to drink water and stay hydrated.
 
 ---
 
-🎯 Features
+##🎯 Features:
 
 - Sends desktop notifications at regular intervals
 - Lightweight and easy to run
@@ -22,7 +20,7 @@ This program runs in the background and sends a notification at fixed intervals 
 
 ---
 
-🛠 Technologies Used
+##🛠 Technologies Used:
 
 - Python
 - Plyer (for system notifications)
@@ -30,7 +28,7 @@ This program runs in the background and sends a notification at fixed intervals 
 
 ---
 
-📂 Project Structure
+##📂 Project Structure:
 
 Drink-Water-Reminder/
 │
@@ -39,7 +37,7 @@ Drink-Water-Reminder/
 
 ---
 
-⚙️ Installation and Setup
+###⚙️ Installation and Setup:
 
 Step 1: Install Python
 
@@ -60,19 +58,19 @@ pip install plyer
 
 ---
 
-▶️ How to Run the Program
+###▶️ How to Run the Program:
 
 1. Open Command Prompt or Terminal.
 2. Navigate to the project folder.
 3. Run the following command:
-
+```bash
 python Drink water reminder.py
 
 The program will start and send water reminder notifications at regular intervals.
 
 ---
 
-🧠 How It Works
+##🧠 How It Works:
 
 - The program uses the plyer notification module to show desktop alerts.
 - A loop keeps the program running.
@@ -80,26 +78,24 @@ The program will start and send water reminder notifications at regular interval
 
 ---
 
-⏱ Changing the Reminder Time
+###⏱ Changing the Reminder Time:
 
 You can change the reminder interval inside the code:
 
 interval = 3600
 
-Examples
-
-Time| Value
+Examples:
+    Time   | Value
 15 minutes| 900
 30 minutes| 1800
 45 minutes| 2700
-1 hour| 3600
+   1 hour  | 3600
 
 ---
 
-🚀 Future Improvements:
+###🚀 Future Improvements:
 
 You can enhance this project by adding:
-
 - Graphical User Interface (GUI)
 - Start/Stop buttons
 - Sound alert
@@ -108,9 +104,9 @@ You can enhance this project by adding:
 - Mobile app version
 
 
-👩‍💻 Author:
+##👩‍💻 Author:
 Nikita Jadhav
 IT Student | Beginner Python Developer
 
-📜 License:
+##📜 License:
 This project is open-source and free to use for learning purposes.
