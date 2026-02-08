@@ -1,3 +1,4 @@
+#Drink water reminder:
 from plyer import notification
 import time
 
@@ -13,4 +14,5 @@ print("Water reminder started.....")
 
 while True:
     drink_water_reminder()
+
     time.sleep(interval)
