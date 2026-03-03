@@ -64,7 +64,7 @@ pip install plyer
 2. Navigate to the project folder.
 3. Run the following command:
 ```bash
-python Drink water reminder.py
+python  water_reminder.py
 
 The program will start and send water reminder notifications at regular intervals.
 
