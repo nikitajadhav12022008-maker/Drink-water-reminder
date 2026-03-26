@@ -4,7 +4,7 @@ This is a beginner-friendly project created using Python and the Plyer library.
 
 ---
 
-##📌 Project Description:
+## 📌 Project Description:
 Many people forget to drink enough water while studying or working on the computer.
 This program runs in the background and sends a notification at fixed intervals to remind the user to drink water and stay hydrated.
 
