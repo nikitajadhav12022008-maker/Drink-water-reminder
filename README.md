@@ -37,7 +37,7 @@ Drink-Water-Reminder/
 
 ---
 
-###⚙️ Installation and Setup:
+### ⚙️ Installation and Setup:
 
 Step 1: Install Python
 
