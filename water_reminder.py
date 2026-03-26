@@ -1,4 +1,4 @@
-#python based Drink water reminder:
+# python based Drink water reminder:
 #importing notification
 from plyer import notification
 #importing time
