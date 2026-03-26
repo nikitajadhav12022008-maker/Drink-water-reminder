@@ -28,7 +28,7 @@ This program runs in the background and sends a notification at fixed intervals 
 
 ---
 
-##📂 Project Structure:
+## 📂 Project Structure:
 
 Drink-Water-Reminder/
 │
