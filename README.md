@@ -70,7 +70,7 @@ The program will start and send water reminder notifications at regular interval
 
 ---
 
-##🧠 How It Works:
+## 🧠 How It Works:
 
 - The program uses the plyer notification module to show desktop alerts.
 - A loop keeps the program running.
@@ -78,7 +78,7 @@ The program will start and send water reminder notifications at regular interval
 
 ---
 
-###⏱ Changing the Reminder Time:
+### ⏱ Changing the Reminder Time:
 
 You can change the reminder interval inside the code:
 
@@ -93,7 +93,7 @@ Examples:
 
 ---
 
-###🚀 Future Improvements:
+## 🚀 Future Improvements:
 
 You can enhance this project by adding:
 - Graphical User Interface (GUI)
@@ -104,8 +104,9 @@ You can enhance this project by adding:
 - Mobile app version
 
 
-##👩‍💻 Author:
+## 👩‍💻 Author:
 Nikita Jadhav
+
 IT Student | Beginner Python Developer
 
 ##📜 License:
