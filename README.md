@@ -1,4 +1,4 @@
-##💧 Drink Water Reminder:
+## 💧 Drink Water Reminder:
 A simple Python project that reminds the user to drink water at regular time intervals using desktop notifications.
 This is a beginner-friendly project created using Python and the Plyer library.
 
