@@ -10,7 +10,7 @@ This program runs in the background and sends a notification at fixed intervals 
 
 ---
 
-##🎯 Features:
+## 🎯 Features:
 
 - Sends desktop notifications at regular intervals
 - Lightweight and easy to run
