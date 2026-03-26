@@ -81,11 +81,9 @@ The program will start and send water reminder notifications at regular interval
 
 ### ⏱ Changing the Reminder Time:
 
-- You can change the reminder interval inside the code:
-
-- interval = 3600
-
-- Examples:
+You can change the reminder interval inside the code:
+interval = 3600
+Examples:
     Time   | Value
 15 minutes| 900
 30 minutes| 1800
