@@ -20,7 +20,7 @@ This program runs in the background and sends a notification at fixed intervals 
 
 ---
 
-##🛠 Technologies Used:
+## 🛠 Technologies Used:
 
 - Python
 - Plyer (for system notifications)
