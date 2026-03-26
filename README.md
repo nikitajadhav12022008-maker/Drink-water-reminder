@@ -58,7 +58,7 @@ pip install plyer
 
 ---
 
-###▶️ How to Run the Program:
+## ▶️ How to Run the Program:
 
 1. Open Command Prompt or Terminal.
 2. Navigate to the project folder.
