@@ -67,6 +67,19 @@ pip install plyer
 
 ---
 
+### ⏱ Changing the Reminder Time:
+
+- You can change the reminder interval inside the code:
+- interval = 3600
+- Examples:
+-   Time   | Value
+- 15 minutes| 900
+- 30 minutes| 1800
+- 45 minutes| 2700
+-  1 hour  | 3600
+
+---
+
 ## ▶️ How to Run the Program:
 
 1. Open Command Prompt or Terminal.
@@ -81,18 +94,7 @@ The program will start and send water reminder notifications at regular interval
 
 
 
-### ⏱ Changing the Reminder Time:
 
-You can change the reminder interval inside the code:
-interval = 3600
-Examples:
-    Time   | Value
-15 minutes| 900
-30 minutes| 1800
-45 minutes| 2700
-   1 hour  | 3600
-
----
 
 ## 🚀 Future Improvements:
 
