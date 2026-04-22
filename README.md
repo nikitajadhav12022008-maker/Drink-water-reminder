@@ -103,13 +103,8 @@ The program will start and send water reminder notifications at regular interval
 
 ---
 
-
-
-
-
-
-
 ## 👩‍💻 Author:
+
 Nikita Jadhav
 IT Student | Beginner Python Developer
 
