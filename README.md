@@ -59,6 +59,14 @@ pip install plyer
 
 ---
 
+## 🧠 How It Works:
+
+- The program uses the plyer notification module to show desktop alerts.
+- A loop keeps the program running.
+- The "time.sleep()" function pauses the program for a fixed interval before sending the next reminder.
+
+---
+
 ## ▶️ How to Run the Program:
 
 1. Open Command Prompt or Terminal.
@@ -71,13 +79,7 @@ The program will start and send water reminder notifications at regular interval
 
 ---
 
-## 🧠 How It Works:
 
-- The program uses the plyer notification module to show desktop alerts.
-- A loop keeps the program running.
-- The "time.sleep()" function pauses the program for a fixed interval before sending the next reminder.
-
----
 
 ### ⏱ Changing the Reminder Time:
 
