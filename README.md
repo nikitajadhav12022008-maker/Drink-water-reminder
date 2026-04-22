@@ -80,6 +80,17 @@ pip install plyer
 
 ---
 
+## 🚀 Future Improvements:
+
+- You can enhance this project by adding:
+- Graphical User Interface (GUI)
+- Start/Stop buttons
+- Sound alert
+- Daily water intake tracker
+- Custom reminder intervals
+- Mobile app version
+
+---
 ## ▶️ How to Run the Program:
 
 1. Open Command Prompt or Terminal.
@@ -96,17 +107,7 @@ The program will start and send water reminder notifications at regular interval
 
 
 
-## 🚀 Future Improvements:
 
-- You can enhance this project by adding:
-- Graphical User Interface (GUI)
-- Start/Stop buttons
-- Sound alert
-- Daily water intake tracker
-- Custom reminder intervals
-- Mobile app version
-
----
 
 ## 👩‍💻 Author:
 Nikita Jadhav
